@@ -71,7 +71,6 @@ body {
 }
 
 .button-styling {
-    width: 240px;
     height: 72px;
     border: 1px solid #EAEAEA;
     border-radius: 6px;
@@ -121,10 +120,6 @@ body {
     height: 115px; 
 }
   
-.swiper-slide{
-    flex-shrink: 1  !important;
-}
-
 #toggleButton{
     display: none;
 }
